@@ -6,7 +6,7 @@
  * Dual licensed under the MIT or GPL licenses.
  *
  * Blink or fade text
- * .blink(text,fade (0/1),speed)
+ * .blink(text,fade (0/1),speed) 
  */
 
 Crafty.c("Blinky", {
