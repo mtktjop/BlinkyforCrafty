@@ -15,6 +15,8 @@ Crafty.scene("main", function () {
 Crafty.e("2D, DOM, Blinky")
       .attr({ x: 160, y: 200,w:500})
       .blink("fading text",1,250)
+      
+      
 Crafty.e("2D, DOM, Blinky")
       .attr({ x: 160, y: 200,w:500})
       .blink("blinking text",0,250)
