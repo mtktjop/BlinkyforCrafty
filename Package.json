@@ -1,0 +1,31 @@
+{
+    "name": "Blinky",
+    "version": "0.1",
+    "title": "Blink Fade Text",
+    "author": {
+        "name": "Michael Kruger",
+        "url": "http://craftyjs.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+        {
+            "type": "GPL",
+            "url": "http://www.opensource.org/licenses/gpl-license.php"
+        }
+    ],
+    "description": "Blink or fade text in and out",
+    "keywords": [
+        "fade",
+        "javascript"
+    ],
+    "jsfiddle" : "http://jsfiddle.net/d5K9z/embedded/result/", 
+    "homepage": "https://github.com/mtktjop/BlinkyForCrafty",
+    "files": [
+        "Blinky.js"
+    ]
+}
+
+//If You don't want example tab just write "jsfiddle" : "disable",
