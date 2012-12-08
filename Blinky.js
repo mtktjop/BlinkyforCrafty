@@ -42,7 +42,7 @@ Crafty.c("Blinky", {
 
 				
 				this._delayExpired=1
-			}, this._time/20);
+			}, (this._fade==0?this._time:this._time/20));
 		this._delayExpired=0;
 		}	
 	}
